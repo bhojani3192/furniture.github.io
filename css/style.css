@@ -481,3 +481,8 @@ a.nav-link.search {
 .copy-right .col-lg-5 a{
     color:#007bff;
 }
+@media (max-width:520px){
+    .slider-heading{
+        font-size: 60px;
+    }
+}
